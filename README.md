@@ -1,16 +1,17 @@
 # SammieDaSnake
 Creating the old school game Snake
 
-The starter code contains comments and enough code to set up the basic structure of the game. YOu'll want to fork this branch or clone it
+The starter code contains comments and enough code to set up the basic structure of the game. You'll want to fork this branch or clone it
 onto your local machine first.
 
 Please try finishing the code yourself before looking at the solutions. 
 
 If you do get stuck a few resources to help you out: 
-https://www.python.org/doc/
-https://www.pygame.org/docs/
-Stack Overflow
-Google: particularly if you run your code and get an error, copy and paste the error into Google for more information and possible solutions
+- [Python Documentation](https://www.python.org/doc/)
+- [Pygame Documentation](https://www.pygame.org/docs/)
+- [Stack Overflow](https://stackoverflow.com/)
+- Google
+  - particularly if you run your code and get an error, copy and paste the error into Google for more information and possible solutions
 
 Good luck!
 
